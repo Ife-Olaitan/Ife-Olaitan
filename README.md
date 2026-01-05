@@ -3,8 +3,8 @@
 ### 🚀 DevOps & Cloud Engineer  
 
 I'm passionate about automating systems, improving reliability, and scaling cloud infrastructure.  
-Currently focusing on:
 
+### 🎯 Current Focus  
 - ☁️ Cloud Platforms: AWS & GCP  
 - 🐳 Containerization: Docker & Kubernetes  
 - 🔧 Infrastructure as Code: Terraform & Ansible  
@@ -12,8 +12,9 @@ Currently focusing on:
 - 🧩 Configuration & Monitoring: Helm, Argo CD, Prometheus  
 - 💻 Linux, Networking & Scripting  
 
-### 🎯 Current Focus  
-Improving containerization with Docker & Kubernetes while learning Helm and Argo CD for advanced deployment automation.
+Currently improving my containerization skills with Docker & Kubernetes while learning Helm and Argo CD for advanced deployment automation.
+
+---
 
 ### 🛠️ Tools & Technologies  
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
@@ -27,12 +28,18 @@ Improving containerization with Docker & Kubernetes while learning Helm and Argo
 ![Helm](https://img.shields.io/badge/Helm-000000?style=flat&logo=helm)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-000000?style=flat&logo=argo)
 
+---
+
 ### 🌱 Learning Mindset  
-Always exploring new tools, cloud architectures, and automation strategies to bridge Dev and Ops efficiently.
+Always exploring new tools, cloud architectures, and automation strategies to bridge Dev and Ops efficiently.  
+
+---
 
 ### 🤝 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ifeoluwaolaiya/)  
-- ✉️ olaiyaifeoluwa.o@gmail.com
+- ✉️ olaiyaifeoluwa.o@gmail.com  
 - 🧠 [Medium](https://medium.com/@ifeoluwa1201)  
+
+---
 
 💡 *“Still learning. Still building. Still here for the journey.”*
