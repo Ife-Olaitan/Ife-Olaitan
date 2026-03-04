@@ -12,8 +12,6 @@ I'm passionate about automating systems, improving reliability, and scaling clou
 - 🧩 Configuration & Monitoring: Helm, Argo CD, Prometheus  
 - 💻 Linux, Networking & Scripting  
 
-Currently improving my containerization skills with Docker & Kubernetes while learning Helm and Argo CD for advanced deployment automation.
-
 ---
 
 ### 🛠️ Tools & Technologies  
